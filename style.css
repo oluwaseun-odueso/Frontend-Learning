@@ -1,22 +1,17 @@
-body {
-    margin: 0;
+.main {
+    margin-top: 100px;
 }
 
-.red {
-    background: red;
-    height: 100px;
-    margin-top: 10px;
-    margin-right: 10px;
-    margin-left: 10px;
-    margin-bottom: 100px;
+.logo-img {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.blue {
-    background: blue;
-    height: 100px;
-}
-
-.green {
-    background: green;
-    height: 100px;
+.search-input {
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
