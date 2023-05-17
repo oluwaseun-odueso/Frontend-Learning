@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Monsieur-la-Doulaise-Regular;
+    src: url("monsieur-la-doulaise/MonsieurLaDoulaise-Regular.ttf");
+}
+
+h1 {
+    font-family: Monsieur-la-Doulaise-Regular;
+}
