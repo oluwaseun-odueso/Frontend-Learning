@@ -1,9 +1,14 @@
 body {
-    color: white;
+    margin: 0;
+    color: #278db0;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+
+#hero {
     background-image: url("images/giphy2.gif");
     background-size: cover;
-    text-align: center;
-    font-family: 'Orbitron', sans-serif;;
+    padding: 10px 0 40px 0;
 }
 
 .apply_btn {
@@ -11,6 +16,9 @@ body {
     background-color: white;
     border: none;
     font-family: inherit;
+    font-weight: bold;
+    /* could also do font-weight: 800 */
+    color: #278db0;
 }
 
 .underline {
