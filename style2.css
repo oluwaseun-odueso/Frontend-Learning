@@ -21,6 +21,11 @@ body {
     color: #278db0;
 }
 
+#main_text {
+    text-shadow: 1px 1px 4px rgb(200, 85, 123);
+    letter-spacing: 3px;
+}
+
 .underline {
     border-bottom: 4px solid white;
 }
