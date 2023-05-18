@@ -54,6 +54,14 @@ body {
     margin-top: 0;
 }
 
-.gift_img:hover {
+#gif_hover1:hover {
     background-image: url("https://media.giphy.com/media/hW6bdKZkFrSOpwfL6B/giphy.gif");
+}
+
+#gif_hover2:hover {
+    background-image: url("images/giphy3.gif");
+}
+
+#gif_hover3:hover {
+    background-image: url("https://media.giphy.com/media/ZuhmYnikJOPPq/giphy.gif")
 }
