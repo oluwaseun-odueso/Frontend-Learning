@@ -1,0 +1,18 @@
+@font-face {
+    font-family: happy_monkey;
+    src: url("Happy_Monkey/HappyMonkey-Regular.ttf");
+}
+
+body {
+    font-family: happy_monkey;
+    text-align: center;
+    background: #a2d2ff;
+    color: white;
+    text-shadow: 0px 0px 1px black;
+}
+
+#pel_img {
+    width: 150px;
+    border-radius: 50%;
+    border: 5px solid #EFB0C9;
+}
