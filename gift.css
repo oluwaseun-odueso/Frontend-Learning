@@ -30,3 +30,30 @@ body {
     flex-direction: column;
     align-items: center;
 }
+
+.gift_section {
+    margin-top: 50px;
+}
+
+.gift_img {
+    margin: 0 auto;
+    width: 500px;
+    height: 500px;
+    background-image: url("https://i.pinimg.com/originals/4b/0a/e3/4b0ae342581fc1d1113c7fa5abd83117.jpg");
+    background-size: cover;
+    height: 150px;
+    border: 5px solid white;
+    border-radius: 10px;
+}
+
+.bday_wish {
+    margin-bottom: 10px;
+}
+
+.bday_gift {
+    margin-top: 0;
+}
+
+.gift_img:hover {
+    background-image: url("https://media.giphy.com/media/hW6bdKZkFrSOpwfL6B/giphy.gif");
+}
