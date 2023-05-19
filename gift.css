@@ -54,14 +54,18 @@ body {
     margin-top: 0;
 }
 
-#gif_hover1:hover {
+#gif_happy:hover {
     background-image: url("https://media.giphy.com/media/hW6bdKZkFrSOpwfL6B/giphy.gif");
 }
 
-#gif_hover2:hover {
+#gif_hot:hover {
     background-image: url("images/giphy3.gif");
 }
 
-#gif_hover3:hover {
+#gif_genius:hover {
     background-image: url("https://media.giphy.com/media/ZuhmYnikJOPPq/giphy.gif")
+}
+
+#gif_badass:hover {
+    background-image: url("https://media.giphy.com/media/3oEduVNNr7Oyb2hIU8/giphy.gif");
 }
