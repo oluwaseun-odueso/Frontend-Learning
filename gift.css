@@ -37,11 +37,10 @@ body {
 
 .gift_img {
     margin: 0 auto;
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 400px;
     background-image: url("https://i.pinimg.com/originals/4b/0a/e3/4b0ae342581fc1d1113c7fa5abd83117.jpg");
     background-size: cover;
-    height: 150px;
     border: 5px solid white;
     border-radius: 10px;
 }
@@ -68,4 +67,22 @@ body {
 
 #gif_badass:hover {
     background-image: url("https://media.giphy.com/media/3oEduVNNr7Oyb2hIU8/giphy.gif");
+}
+
+#gif_cheers { 
+    height: 300px;
+}
+
+#gif_cheers:hover {
+    background-image: url("https://media.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif");
+}
+
+#footer {
+    width: 400px;
+    font-style: italic;
+    margin: 30px auto;
+}
+
+a {
+    color: white;
 }
