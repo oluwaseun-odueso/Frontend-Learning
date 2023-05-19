@@ -6,7 +6,7 @@
 body {
     font-family: happy_monkey;
     text-align: center;
-    background: #a2d2ff;
+    background: linear-gradient(teal, rgb(121, 43, 56));
     color: white;
     text-shadow: 0px 0px 1px black;
 }
